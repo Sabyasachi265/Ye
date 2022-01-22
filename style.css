@@ -1,0 +1,19 @@
+.headyes{
+    width: 80%;
+    font-size: 25px;
+}
+body{
+    color: white;
+    background-color: lightskyblue;
+}
+.yes_sir{
+    color: maroon;
+}
+#camera {
+    border: 2px dashed black;
+    width: 350px;
+    height: 300px;
+}
+#Chiken_ok, #yes_ok{
+color: mediumorchid;
+}
